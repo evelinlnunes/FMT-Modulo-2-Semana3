@@ -15,7 +15,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        System.out.println("Módulo 2 - Semana 03");
         while (true) {
             System.out.println("\nSelecione uma opção:");
             System.out.println("1 - Cadastrar novo paciente");
